@@ -5,7 +5,7 @@
       <p v-if="error.statusCode === 404">Упс... Эта страница не найдена</p>
       <p v-else>Произошла ошибка</p>
       <a href="/" title="Главная страница Auto Trackcom">вернуться на главную</a>
-    </div>
+    </div> 
   </section>
 </template>
 <script>
